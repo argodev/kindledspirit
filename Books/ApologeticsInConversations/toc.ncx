@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="Apologetics In Conversation"/> <!-- same as in .opf -->
+    <meta name="dtb:depth" content="1"/> <!-- 1 or higher -->
+    <meta name="dtb:totalPageCount" content="0"/> <!-- must be 0 -->
+    <meta name="dtb:maxPageNumber" content="0"/> <!-- must be 0 -->
+  </head>
+  <docTitle>
+    <text>Apologetics In Conversation</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Content</text>
+      </navLabel>
+      <content src="toc.html"/>
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="text.html#INTRODUCTION"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Affirm The Inevitable</text>
+      </navLabel>
+      <content src="text.html#AFFIRM_THE_INEVITABLE"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Attack The Enemy</text>
+      </navLabel>
+      <content src="text.html#ATTACK_THE_ENEMY"/>
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Arrange The Clash</text>
+      </navLabel>
+      <content src="text.html#ARRANGE_THE_CLASH"/>
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Announce The Outcome</text>
+      </navLabel>
+      <content src="text.html#ANNOUNCE_THE_OUTCOME"/>
+    </navPoint>
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>Conclusion</text>
+      </navLabel>
+      <content src="text.html#CONCLUSION"/>
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>Kindled Spirits</text>
+      </navLabel>
+      <content src="../Shared/kindledspirits.html"/>
+    </navPoint>
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>ORBC Monday Men</text>
+      </navLabel>
+      <content src="../Shared/orbc.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

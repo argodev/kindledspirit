@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<package unique-identifier="uid" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:asd="http://www.idpf.org/asdfaf">
+  <metadata>
+    <dc-metadata  xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>The Necessity of Prayer</dc:Title>
+      <dc:Language>en</dc:Language>
+      <dc:Creator>ORBC Monday Men</dc:Creator>
+      <dc:Copyrights>TBD</dc:Copyrights>
+      <dc:Publisher>TBD</dc:Publisher>
+      <x-metadata>
+        <EmbeddedCover>images/cover.jpg</EmbeddedCover>
+      </x-metadata>
+    </dc-metadata>
+  </metadata>
+  <manifest>
+    <item id="toc" properties="nav" mediatype="application/xhtml+xml" href="toc.html"></item>
+    <item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+    <item id="text" media-type="text/x-oeb1-document" href="text.html"></item>
+    <item id="KindledSpirits" media-type="text/x-oeb1-document" href="../Shared/kindledspirits.html"></item>
+    <item id="ORBC" media-type="text/x-oeb1-document" href="../Shared/orbc.html"></item>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="toc"/>
+    <itemref idref="text"/>
+    <itemref idref="KindledSpirits"/>
+    <itemref idref="ORBC"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="toc.html"/>
+    <reference type="text" title="Book" href="text.html"/>
+  </guide>
+</package>
