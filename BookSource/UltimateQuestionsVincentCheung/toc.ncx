@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+  </head>
+  <docTitle>
+    <text>KF8</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Content</text>
+      </navLabel>
+      <content src="toc.html#toc"/>
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Preface To 2004 Edition</text>
+      </navLabel>
+      <content src="text.html#PREFACE_TO_2004_EDITION"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Inescapable Revelation</text>
+      </navLabel>
+      <content src="text.html#INESCAPABLE_REVELATION"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Incomprehensible Nonsense</text>
+      </navLabel>
+      <content src="text.html#INCOMPREHENSIBLE_NONSENSE"/>
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Inescapable Revelation</text>
+      </navLabel>
+      <content src="text.html#INESCAPABLE_REVELATION2"/>
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Invincible Argumentation</text>
+      </navLabel>
+      <content src="text.html#INVINCIBLE_ARGUMENTATION"/>
+    </navPoint>
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>Ultimate Questions</text>
+      </navLabel>
+      <content src="text.html#ULTIMATE_QUESTIONS"/>
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>Philosophy</text>
+      </navLabel>
+      <content src="text.html#PHILOSOPHY"/>
+    </navPoint>
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>Logos</text>
+      </navLabel>
+      <content src="text.html#LOGOS"/>
+    </navPoint>
+    <navPoint id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>Metaphysics</text>
+      </navLabel>
+      <content src="text.html#METAPHYSICS"/>
+    </navPoint>
+    <navPoint id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>Epistemology</text>
+      </navLabel>
+      <content src="text.html#EPISTEMOLOGY"/>
+    </navPoint>
+    <navPoint id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>Ethics</text>
+      </navLabel>
+      <content src="text.html#ETHICS"/>
+    </navPoint>
+    <navPoint id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>Soteriology</text>
+      </navLabel>
+      <content src="text.html#SOTERIOLOGY"/>
+    </navPoint>
+    <navPoint id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>Chosen For Salvation</text>
+      </navLabel>
+      <content src="text.html#CHOSEN_FOR_SALVATION"/>
+    </navPoint>
+    <navPoint id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>Elected</text>
+      </navLabel>
+      <content src="text.html#ELECTED"/>
+    </navPoint>
+    <navPoint id="navpoint-16" playOrder="16">
+      <navLabel>
+        <text>Summoned</text>
+      </navLabel>
+      <content src="text.html#SUMMONED"/>
+    </navPoint>
+    <navPoint id="navpoint-17" playOrder="17">
+      <navLabel>
+        <text>Preserved</text>
+      </navLabel>
+      <content src="text.html#PRESERVED"/>
+    </navPoint>
+    <navPoint id="navpoint-54" playOrder="54">
+      <navLabel>
+        <text>Kindled Spirits</text>
+      </navLabel>
+      <content src="../Shared/kindledspirits.html"/>
+    </navPoint>
+    <navPoint id="navpoint-55" playOrder="55">
+      <navLabel>
+        <text>ORBC Monday Men</text>
+      </navLabel>
+      <content src="../Shared/orbc.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
