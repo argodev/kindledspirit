@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="Apologetics In Conversation"/>
+    <!-- same as in .opf -->
+    <meta name="dtb:depth" content="1"/>
+    <!-- 1 or higher -->
+    <meta name="dtb:totalPageCount" content="0"/>
+    <!-- must be 0 -->
+    <meta name="dtb:maxPageNumber" content="0"/>
+    <!-- must be 0 -->
+  </head>
+  <docTitle>
+    <text>Beyond Denominations</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Content</text>
+      </navLabel>
+      <content src="toc.html"/>
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Outlining The Problem</text>
+      </navLabel>
+      <content src="text.html#CHAPTER_1"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Local Area Networks</text>
+      </navLabel>
+      <content src="text.html#CHAPTER_2"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Task Focused Christian Organizations</text>
+      </navLabel>
+      <content src="text.html#CHAPTER_3"/>
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>General Principles</text>
+      </navLabel>
+      <content src="text.html#CHAPTER_4"/>
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Practical Considerations</text>
+      </navLabel>
+      <content src="text.html#CHAPTER_5"/>
+    </navPoint>
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>Getting from Here To There</text>
+      </navLabel>
+      <content src="text.html#CHAPTER_6"/>
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>2 Corinthians and The New Apostolic Reformation</text>
+      </navLabel>
+      <content src="text.html#CHAPTER_7"/>
+    </navPoint>
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>Apostles And Church Discipline</text>
+      </navLabel>
+      <content src="text.html#CHAPTER_8"/>
+    </navPoint>
+    <navPoint id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>The Networked Church Bible Studies</text>
+      </navLabel>
+      <content src="text.html#CHAPTER_9"/>
+    </navPoint>
+    <navPoint id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>What’s So Wrong With Disunity?</text>
+      </navLabel>
+      <content src="text.html#STUDY_1"/>
+    </navPoint>
+    <navPoint id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>A Brother Offended</text>
+      </navLabel>
+      <content src="text.html#STUDY_2"/>
+    </navPoint>
+    <navPoint id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>How To Trust Other People Without Being Burned</text>
+      </navLabel>
+      <content src="text.html#STUDY_3"/>
+    </navPoint>
+    <navPoint id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>Of One Accord</text>
+      </navLabel>
+      <content src="text.html#STUDY_4"/>
+    </navPoint>
+    <navPoint id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>The Gospel Gang, Mobile Missionary Bands In The New Testament</text>
+      </navLabel>
+      <content src="text.html#STUDY_5"/>
+    </navPoint>
+    <navPoint id="navpoint-16" playOrder="16">
+      <navLabel>
+        <text>Blessed Are The Peacemakers</text>
+      </navLabel>
+      <content src="text.html#STUDY_6"/>
+    </navPoint>
+    <navPoint id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>Kindled Spirits</text>
+      </navLabel>
+      <content src="../Shared/kindledspirits.html"/>
+    </navPoint>
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>ORBC Monday Men</text>
+      </navLabel>
+      <content src="../Shared/orbc.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
