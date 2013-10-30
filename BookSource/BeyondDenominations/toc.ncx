@@ -112,13 +112,13 @@
       </navLabel>
       <content src="text.html#STUDY_6"/>
     </navPoint>
-    <navPoint id="navpoint-10" playOrder="10">
+    <navPoint id="navpoint-17" playOrder="17">
       <navLabel>
         <text>Kindled Spirits</text>
       </navLabel>
       <content src="../Shared/kindledspirits.html"/>
     </navPoint>
-    <navPoint id="navpoint-9" playOrder="9">
+    <navPoint id="navpoint-18" playOrder="18">
       <navLabel>
         <text>ORBC Monday Men</text>
       </navLabel>
